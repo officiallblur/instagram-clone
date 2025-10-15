@@ -1,0 +1,7 @@
+{
+  "name": "Instagram UI Clone",
+  "description": "A high-fidelity replica of the Instagram mobile application's main feed UI, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
